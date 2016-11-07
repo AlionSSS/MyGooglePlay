@@ -18,13 +18,13 @@
 
 ##屏幕截图
 
+![image](https://github.com/AlionSSS/MyGooglePlay/blob/master/Screenshot_2016-10-27-13-16-15_com.skey.mygooglep.png)
 ![image](https://github.com/AlionSSS/MyGooglePlay/blob/master/Screenshot_2016-10-27-13-12-32_com.skey.mygooglep.png)
 ![image](https://github.com/AlionSSS/MyGooglePlay/blob/master/Screenshot_2016-10-27-13-15-03_com.skey.mygooglep.png)
 ![image](https://github.com/AlionSSS/MyGooglePlay/blob/master/Screenshot_2016-10-27-13-15-14_com.skey.mygooglep.png)
 ![image](https://github.com/AlionSSS/MyGooglePlay/blob/master/Screenshot_2016-10-27-13-15-20_com.skey.mygooglep.png)
 ![image](https://github.com/AlionSSS/MyGooglePlay/blob/master/Screenshot_2016-10-27-13-15-27_com.skey.mygooglep.png)
 ![image](https://github.com/AlionSSS/MyGooglePlay/blob/master/Screenshot_2016-10-27-13-15-34_com.skey.mygooglep.png)
-![image](https://github.com/AlionSSS/MyGooglePlay/blob/master/Screenshot_2016-10-27-13-16-15_com.skey.mygooglep.png)
 
 ##build.gradle
 	apply plugin: 'com.android.application'
